@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pip.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="0" y="0" width="510" height="507" frameX="-49" frameY="-114" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="idle0001" x="1024" y="0" width="516" height="496" frameX="-51" frameY="-126" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="idle0002" x="1024" y="496" width="516" height="489" frameX="-55" frameY="-133" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="idle0003" x="0" y="1005" width="524" height="487" frameX="-56" frameY="-137" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="idle0004" x="1024" y="496" width="516" height="489" frameX="-55" frameY="-133" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="singUP0000" x="2036" y="522" width="405" height="522" frameX="-48" frameY="-99" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="singUP0001" x="2036" y="0" width="407" height="522" frameX="-46" frameY="-99" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="singRIGHT0000" x="1540" y="0" width="496" height="506" frameX="-23" frameY="-116" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="singRIGHT0001" x="510" y="0" width="514" height="503" frameX="-19" frameY="-119" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="singRIGHT0002" x="0" y="507" width="514" height="498" frameX="-19" frameY="-124" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="singDOWN0000" x="524" y="1005" width="519" height="425" frameX="-19" frameY="-196" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="singDOWN0001" x="466" y="1492" width="517" height="419" frameX="-19" frameY="-202" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="singLEFT0000" x="0" y="1492" width="466" height="497" frameX="-113" frameY="-125" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="singLEFT0001" x="514" y="507" width="494" height="497" frameX="-113" frameY="-125" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="animHAPPY0000" x="1540" y="506" width="487" height="515" frameX="-51" frameY="-113" frameWidth="640" frameHeight="640"/>
+</TextureAtlas>
